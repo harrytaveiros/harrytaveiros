@@ -65,9 +65,19 @@ Me chamo Harry Rocha Taveiros, tenho 19 anos e sou natural de Sergipe. Concluí 
 />
 
  <img 
-     align="center" 
-     alt="Rafa-Ts" 
-     height="30" 
-     width="40" 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-     />
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+ <img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" 
+/>
