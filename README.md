@@ -36,7 +36,6 @@ Me chamo Harry Rocha Taveiros, tenho 19 anos e sou natural de Sergipe. Concluí 
 />
 
 
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -55,14 +54,6 @@ Me chamo Harry Rocha Taveiros, tenho 19 anos e sou natural de Sergipe. Concluí 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
  <img 
     align="left" 
@@ -75,9 +66,46 @@ Me chamo Harry Rocha Taveiros, tenho 19 anos e sou natural de Sergipe. Concluí 
 
  <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" 
+/>
+
+ <img 
+    align="left" 
+    alt="Dart"
+    title="Dart" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Csharp"
+    title="Csharp" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Nodejs"
+    title="Nodejs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" 
 />
