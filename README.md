@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Me chamo Harry Rocha Taveiros, tenho 19 anos e sou natural de Sergipe. Concluí o ensino médio no IDFG. Atualmente, estou cursando Ciência da Computação na UNINASSAU. Sou apaixonado por tecnologia e busco desenvolver minhas habilidades profissionais na área da programação.
+Me chamo Harry Rocha Taveiros, tenho 20 anos e sou natural de Sergipe. Concluí o ensino médio no IDFG. Atualmente, estou cursando Ciência da Computação na UNINASSAU. Sou apaixonado por tecnologia e busco desenvolver minhas habilidades profissionais na área da programação.
 
 
 
